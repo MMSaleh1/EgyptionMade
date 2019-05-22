@@ -30,23 +30,12 @@ export class HomePage {
   cCount:number = 80;
   adsSliders = [
     {
-      image: 'assets/img/ribbon-add1.jpg',
+      image: 'assets/img/elsewedy.png',
       title: 'Flat <span>80%</span> off',
       description: 'on international brands',
       
-    },
-    {
-      image: 'assets/img/ribbon-add2.jpg',
-      title: 'Super Sale <span>50%</span> off',
-      description: 'on international brands',
-      
-    },
-    {
-      image: 'assets/img/ribbon-add3.jpg',
-      title: 'Super Sale <span>50%</span> off',
-      description: 'on international brands',
-      
     }
+   
   ];
 
   vendorSlider: any[][];
